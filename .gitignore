@@ -1,0 +1,19 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar archivos temporales de Visual Studio Code
+.vscode/
+.history/
+
+# Ignorar configuraciones específicas de sistema operativo
+*.DS_Store
+*.log
+*.tmp
+
+# Ignorar archivos de configuración generados
+*.sln.ide
+*.user
+*.lock
+*.cache
+*.editorconfig
